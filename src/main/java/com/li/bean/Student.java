@@ -10,4 +10,5 @@ public class Student {
     private String dev1;
     private String master2;
     private String dev2;
+    private String yuanchengku1;
 }
