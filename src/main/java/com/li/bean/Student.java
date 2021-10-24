@@ -9,4 +9,5 @@ public class Student {
     private Integer age;
     private String dev1;
     private String master2;
+    private String dev2;
 }
