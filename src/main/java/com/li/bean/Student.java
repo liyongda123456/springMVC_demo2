@@ -5,4 +5,5 @@ package com.li.bean;
  * @create 2021-10-24 11:54
  */
 public class Student {
+    private String name;
 }
